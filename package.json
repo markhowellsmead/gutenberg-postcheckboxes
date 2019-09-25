@@ -1,6 +1,6 @@
 {
 	"name": "@markhowellsmead/gutenberg-postcheckboxes",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Multiple post selector for Gutenberg components.",
 	"main": "index.jsx",
 	"scripts": {
